@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Min
 - 👀 I’m interested in game gacha
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Softwere Testing
 
 
 <!---
